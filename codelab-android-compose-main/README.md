@@ -1,80 +1,72 @@
-# Jetpack Compose Codelabs
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OI352QzL)
 
-This repository contains a set of Android Studio projects to help you learn about
-Compose in Android. Each sample contains the code for a specific Compose codelab.
+# 📱 Jetpack Compose Assignment
 
-For more information about Jetpack Compose, please [read the documentation](https://developer.android.com/jetpack/compose)
+## 🎯 Overview
 
-## 💻 Requirements
+This assignment is based on the official Google learning pathway:
 
-[Latest version of Android Studio](https://developer.android.com/studio).
+* https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-1
 
-## 🧬 Codelabs
+You are required to complete the learning materials and implement the associated codelabs inside this repository.
 
-### [Basics codelab](https://developer.android.com/codelabs/jetpack-compose-basics)
+---
 
-Go hands-on and learn the fundamentals of declarative UI, working with state, layouts and theming.
 
-### [Basic layouts codelab](https://developer.android.com/codelabs/jetpack-compose-layouts)
+## 🏅 1. Developer Badge (Mandatory)
 
-Learn how to implement real-world designs with the composables and modifiers that Compose provides out of the box.
+* Complete the full pathway on Google Developers
+* Earn the completion badge
+* Upload proof inside the `badge/` folder
 
-### [State codelab](https://developer.android.com/codelabs/jetpack-compose-state)
-
-Understand patterns for working with state in a declarative world by building a Wellness application.
-
-### [Theming codelab](https://developer.android.com/codelabs/jetpack-compose-theming)
-
-Go hands on with Compose’s implementation of Material Design to understand how to theme an
-application’s colors, typography and shapes and support light and dark themes.
-
-### [Migration codelab](https://developer.android.com/codelabs/jetpack-compose-migration)
-
-Understand how Jetpack Compose and View-based UIs can co-exist and interact, making it easy to
-adopt Compose at your own pace.
-
-### [Animation codelab](https://developer.android.com/codelabs/jetpack-compose-animation)
-
-Learn how to use Jetpack Compose Animation APIs.
-
-### [Navigation codelab](https://developer.android.com/codelabs/jetpack-compose-navigation)
-
-Learn how to use the Jetpack Navigation library in Compose, navigate within your application,
-navigate with arguments, support deep-links, and test your navigation.
-
-### [Performance codelab](https://developer.android.com/codelabs/jetpack-compose-performance)
-
-Learn how to measure, investigate and improve the runtime performance of a Compose app.
-
-### [Testing codelab](https://developer.android.com/codelabs/jetpack-compose-testing)
-
-Learn about testing Jetpack Compose UIs. Write your first tests, and learn about testing in
-isolation, debugging tests, the semantics tree, and test synchronization.
-
-### [Accessibility codelab](https://developer.android.com/codelabs/jetpack-compose-accessibility)
-
-Learn about the various ways to improve an app’s accessibility. Increase touch target sizes, add
-content descriptions, create custom actions, and more.
-
-### [Adaptive codelab](https://codelabs.developers.google.com/jetpack-compose-adaptability)
- 
-Learn how to build adaptive apps for phones, tablets and foldables with Jetpack Compose. Improve 
-reachability and ergonomics of your app with Material navigation components. 
-
-## License
+### Required file:
 
 ```
-Copyright 2021 The Android Open Source Project
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    https://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+badge/badge.png
 ```
+
+---
+
+## 🧪 2. Codelab Implementation
+
+You must complete **ALL 4 codelabs** from the pathway.
+
+> Note: The 4th codelab is optional in Google’s course, but **mandatory for this assignment**
+
+---
+
+### 📁 Folder Requirements
+
+Each folder must contain a **complete Android Studio project**:
+
+| Folder   | Requirement                |
+| -------- | -------------------------- |
+| codelab1 | First codelab              |
+| codelab2 | Second codelab             |
+| codelab3 | Third codelab              |
+| codelab4 | Fourth codelab (mandatory) |
+
+---
+
+## ⚙️ Technical Requirements
+
+* Use **Jetpack Compose**
+* Projects must:
+
+  * Build successfully
+  * Run without crashes
+* Do NOT leave folders empty
+
+---
+
+
+## ✅ Checklist
+
+* [ ] Badge uploaded
+* [ ] codelab1 completed
+* [ ] codelab2 completed
+* [ ] codelab3 completed
+* [ ] codelab4 completed
+* [ ] Projects compile and run
+
+---
