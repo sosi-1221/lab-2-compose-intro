@@ -1,0 +1,26 @@
+# Android
+**/build/
+**/.gradle/
+**/local.properties
+**/*.iml
+**/.idea/
+**/.DS_Store
+**/captures/
+**/.externalNativeBuild
+**/.cxx
+**/cmake-build-debug/
+**/cmake-build-release/
+**/.google/
+**/*.log
+**/out/
+**/gen/
+**/bin/
+
+# Root level build if any
+build/
+.gradle/
+local.properties
+.idea/
+out/
+bin/
+gen/
